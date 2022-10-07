@@ -1,0 +1,37 @@
+{
+  "completions": [
+    {
+      "requestId": "1",
+      "clownId": "1",
+      "dateCompleted": 1665090175392,
+      "id": 1
+    },
+    {
+      "requestId": "1",
+      "clownId": "2",
+      "dateCompleted": 1665090210620,
+      "id": 2
+    }
+  ],
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons!"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop!"
+    }
+  ],
+  "partyRequests": [
+    {
+      "parentName": "YungReg",
+      "childName": "Edward Elrich",
+      "childrenAttending": "15",
+      "partyLength": "2 hours",
+      "partyDate": "2069-04-20",
+      "partyAddress": "100 Nunya Blvd",
+      "id": 1
+    }
+  ]
+}
